@@ -1,5 +1,5 @@
 # Refine-Production-Planning-For-SmartHome-Solutions-Inc-on-AMADRI-Using-Excel
-This project analyzed real world data from AMADRI, on refine production planning for SmartHome Solutions Inc. With the aim of segmenting and profiling customer base to gain insight into their preferences, customer purchasing trends and geographical location. 
+This project analyzed real world data from AMDARI, on refine production planning for SmartHome Solutions Inc. With the aim of segmenting and profiling customer base to gain insight into their preferences, customer purchasing trends and geographical location. 
 # Refine Production Planning for SmartHome Solutions Inc. — *AMADRI Dataset*
 
 ##  Project Overview
@@ -73,7 +73,7 @@ The dataset includes:
 
 ##  Conclusion
 
-Using Microsoft Excel, I explored **SmartHome Solutions Inc.’s** inventory and sales performance through the AMADRI dataset. By analyzing SKU movement, customer preferences, and regional sales behavior, I identified critical **gaps and opportunities** within the company's **supply chain** and **operational strategy**.
+Using Microsoft Excel, I explored **SmartHome Solutions Inc.’s** inventory and sales performance through the AMDARI dataset. By analyzing SKU movement, customer preferences, and regional sales behavior, I identified critical **gaps and opportunities** within the company's **supply chain** and **operational strategy**.
 
 AUTHOR 
 
